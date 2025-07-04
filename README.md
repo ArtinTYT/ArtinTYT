@@ -1,6 +1,6 @@
 # 👋 Artin Tan | NLP & Deep Learning Enthusiast
 
-> *"Crafting intelligent systems with code and curiosity."*
+> *"May we one day reach the blossom on the other shore, beyond all pleasures and satisfactions this world can offer."*
 
 🎓 **BSc Data Science**, University of Bristol (Maths Dept.)
 💡 **Focus**: NLP · Deep Learning · Algorithm Optimization · LLMs  
