@@ -9,7 +9,7 @@
   <em>"May we one day reach the blossom on the other shore, beyond all pleasures and satisfactions this world can offer."</em>
 </p>
 
----
+<h4> </h4>
 
 **About me**
 - 🎓 **BSc Data Science**, University of Bristol (Maths Dept.)  
