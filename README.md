@@ -9,9 +9,9 @@
   <em>"May we one day reach the blossom on the other shore, beyond all pleasures and satisfactions this world can offer."</em>
 </p>
 
-<h4> </h4>
 
-**About me**
+
+<h4>About me</h4>
 - 🎓 **BSc Data Science**, University of Bristol (Maths Dept.)  
 - 💡 **Focus**: NLP · Deep Learning · Algorithm Optimization · LLMs  
 - 🧠 **Tech Stack**: Python · PyTorch · SQL · Transformers  
