@@ -9,12 +9,10 @@
   <em>"May we one day reach the blossom on the other shore, beyond all pleasures and satisfactions this world can offer."</em>
 </p>
 
-
-
-<h4>About me</h4>
+**About me**
 - 🎓 **BSc Data Science**, University of Bristol (Maths Dept.)  
 - 💡 **Focus**: NLP · Deep Learning · Algorithm Optimization · LLMs  
-- 🧠 **Tech Stack**: Python · PyTorch · SQL · Transformers  
+- 🧠 **Tech Stack**: Python · PyTorch · SQL · Transformers   
 - 🔗 [Blog](https://neurowave.tech) ｜ 🛠️ [GitHub](https://github.com/ArtinTYT) ｜ 💬 [LinkedIn](https://www.linkedin.com/in/artin-tan/)
 
 💬 You can also reach out via [GitHub Discussions](https://github.com/ArtinTYT/ArtinTYT/discussions) — feel free to drop by!
