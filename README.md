@@ -18,7 +18,7 @@
 💬 You can also reach out via [GitHub Discussions](https://github.com/ArtinTYT/ArtinTYT/discussions) — feel free to drop by!
 
 
-| <a href="https://github.com/ArtinTYT"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArtinTYT&show_icons=true&count_private=true&theme=buefy&hide_border=true&cache_seconds=1800&dummy=2" alt="Artin's GitHub stats" /></a> | <a href="https://github.com/ArtinTYT"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtinTYT&layout=compact&theme=buefy&hide_border=true&cache_seconds=1800&dummy=1" /></a> |
+| <a href="https://github.com/ArtinTYT"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArtinTYT&show_icons=true&count_private=true&theme=buefy&hide_border=true&cache_seconds=1800&dummy=1" alt="Artin's GitHub stats" /></a> | <a href="https://github.com/ArtinTYT"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtinTYT&layout=compact&theme=buefy&hide_border=true&cache_seconds=1800&dummy=1" /></a> |
 | ------------- | ------------- |
 
 <!-- 
