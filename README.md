@@ -21,6 +21,7 @@
 | <a href="https://github.com/ArtinTYT"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArtinTYT&show_icons=true&count_private=true&theme=buefy&hide_border=true&cache_seconds=1800&dummy=1" alt="Artin's GitHub stats" /></a> | <a href="https://github.com/ArtinTYT"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtinTYT&layout=compact&theme=buefy&hide_border=true&cache_seconds=1800&dummy=1" /></a> |
 | ------------- | ------------- |
 
+
 <!-- 
 If the GitHub stats cards below don't update:
 1. Try changing the dummy value (e.g., dummy=1 → dummy=2) to force a refresh.
