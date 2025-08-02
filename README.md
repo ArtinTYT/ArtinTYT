@@ -11,7 +11,7 @@
 
 **About me**
 - 🎓 **BSc Data Science**, University of Bristol (Maths Dept.)  
-- 💡 **Focus**: NLP · Deep Learning · Algorithm Optimization · LLMs  
+- 💡 **Focus**: NLP · Deep Learning · LLMs · Algorithms
 - 🧠 **Tech Stack**: Python · PyTorch · SQL · Transformers   
 - 🔗 [Blog](https://neurowave.tech) ｜ 🛠️ [GitHub](https://github.com/ArtinTYT) ｜ 💬 [LinkedIn](https://www.linkedin.com/in/artin-tan/)
 
